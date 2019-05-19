@@ -67,6 +67,7 @@ public class CommandMain extends JFrame implements ActionListener, MouseMotionLi
     public void windowActivated(WindowEvent e) { }
     @Override
     public void windowDeactivated(WindowEvent e) { }
+    //main函数
     public static void main(String[] args){
         new CommandMain("Command Pattern Sample");
     }
