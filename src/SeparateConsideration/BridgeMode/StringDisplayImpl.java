@@ -1,8 +1,8 @@
 package SeparateConsideration.BridgeMode;
 
 public class StringDisplayImpl extends DisplayImpl {
-    private String string;
-    private int width;
+    private String string;//要显示的字符串
+    private int width;//以字节单位计算出的字符串的宽度
     public StringDisplayImpl(String string){
         this.string=string;
         this.width=string.getBytes().length;
