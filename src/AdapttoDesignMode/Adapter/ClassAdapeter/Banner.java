@@ -1,4 +1,4 @@
-package AdapttoDesignMode.Adapter;
+package AdapttoDesignMode.Adapter.ClassAdapeter;
 
 public class Banner {
     private String string;

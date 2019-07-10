@@ -1,4 +1,4 @@
-package AdapttoDesignMode.Adapter;
+package AdapttoDesignMode.Adapter.ClassAdapeter;
 
 public interface Print {
     public abstract void printWeak();

@@ -1,4 +1,4 @@
-package AdapttoDesignMode.Adapter;
+package AdapttoDesignMode.Adapter.ClassAdapeter;
 
 public class PrintBanner extends Banner implements Print {
     public PrintBanner(String string){
